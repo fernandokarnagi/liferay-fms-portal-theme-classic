@@ -703,3 +703,18 @@ $dockbarOpenGradientStart: #0EA6F9;
 		}
 	}
 }
+
+.fms {
+	.roundbutton {
+		border-radius: 15px;
+		border: 1px solid #ddd; 
+		padding: 5px 14px;
+		display: inline-block;
+		background-color: #fff;
+		color: #009ae5;
+		font-weight: 200;
+		line-height: 27px;
+	}
+
+	
+}
