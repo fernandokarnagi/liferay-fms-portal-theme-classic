@@ -45,6 +45,13 @@
 						#end
 					</li>
 				#end
+				<li class="$nav_item_css_class" id="fmsselection" role="presentation">
+				<span style="color: white">&nbsp;&nbsp;&nbsp;&nbsp;Select organisation</span>
+				<select>
+					<option>OMB</option>
+					<option>Fair</option>
+				</select>
+				</li>
 			</ul>
 		</div>
 	</div>

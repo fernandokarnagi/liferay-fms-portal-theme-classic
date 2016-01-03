@@ -15,6 +15,8 @@
 				value="true" />
 			<setting configurable="true" key="breadcrumb" type="checkbox"
 				value="true" />
+			<setting configurable="true" key="navigation" type="checkbox"
+				value="true" />
 			<setting configurable="true" key="poweredby" type="textarea"
 				value="CTC Global" />
 			<setting configurable="true" key="portlet-setup-show-borders-default"
