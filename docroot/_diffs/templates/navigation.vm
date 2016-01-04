@@ -49,7 +49,7 @@
 				<span style="color: white">&nbsp;&nbsp;&nbsp;&nbsp;Select organisation</span>
 				<select>
 					<option>OMB</option>
-					<option>Fair</option>
+					<option>NTUC</option>
 				</select>
 				</li>
 			</ul>
