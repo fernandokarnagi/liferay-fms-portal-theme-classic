@@ -32,7 +32,7 @@ $theme.include($body_top_include)
 	
 						#if ($show_site_name)
 							<span class="site-name" title="#language_format ("go-to-x", [$site_name])">
-								
+								$site_name
 							</span>
 						#end
 					</a>
